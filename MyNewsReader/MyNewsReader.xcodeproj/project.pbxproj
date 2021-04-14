@@ -1,0 +1,598 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		65047BF926275F230066CAFE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65047BF826275F230066CAFE /* AppDelegate.swift */; };
+		65047BFB26275F230066CAFE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65047BFA26275F230066CAFE /* SceneDelegate.swift */; };
+		65047BFD26275F230066CAFE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65047BFC26275F230066CAFE /* ViewController.swift */; };
+		65047C0026275F230066CAFE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65047BFE26275F230066CAFE /* Main.storyboard */; };
+		65047C0226275F280066CAFE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65047C0126275F280066CAFE /* Assets.xcassets */; };
+		65047C0526275F280066CAFE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65047C0326275F280066CAFE /* LaunchScreen.storyboard */; };
+		65047C1026275F290066CAFE /* MyNewsReaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65047C0F26275F290066CAFE /* MyNewsReaderTests.swift */; };
+		65047C1B26275F290066CAFE /* MyNewsReaderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65047C1A26275F290066CAFE /* MyNewsReaderUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		65047C0C26275F290066CAFE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 65047BED26275F220066CAFE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 65047BF426275F230066CAFE;
+			remoteInfo = MyNewsReader;
+		};
+		65047C1726275F290066CAFE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 65047BED26275F220066CAFE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 65047BF426275F230066CAFE;
+			remoteInfo = MyNewsReader;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		65047BF526275F230066CAFE /* MyNewsReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyNewsReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		65047BF826275F230066CAFE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		65047BFA26275F230066CAFE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		65047BFC26275F230066CAFE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		65047BFF26275F230066CAFE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		65047C0126275F280066CAFE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		65047C0426275F280066CAFE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		65047C0626275F280066CAFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65047C0B26275F290066CAFE /* MyNewsReaderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyNewsReaderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		65047C0F26275F290066CAFE /* MyNewsReaderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNewsReaderTests.swift; sourceTree = "<group>"; };
+		65047C1126275F290066CAFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65047C1626275F290066CAFE /* MyNewsReaderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyNewsReaderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		65047C1A26275F290066CAFE /* MyNewsReaderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNewsReaderUITests.swift; sourceTree = "<group>"; };
+		65047C1C26275F290066CAFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		65047BF226275F230066CAFE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		65047C0826275F290066CAFE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		65047C1326275F290066CAFE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		65047BEC26275F220066CAFE = {
+			isa = PBXGroup;
+			children = (
+				65047BF726275F230066CAFE /* MyNewsReader */,
+				65047C0E26275F290066CAFE /* MyNewsReaderTests */,
+				65047C1926275F290066CAFE /* MyNewsReaderUITests */,
+				65047BF626275F230066CAFE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		65047BF626275F230066CAFE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				65047BF526275F230066CAFE /* MyNewsReader.app */,
+				65047C0B26275F290066CAFE /* MyNewsReaderTests.xctest */,
+				65047C1626275F290066CAFE /* MyNewsReaderUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		65047BF726275F230066CAFE /* MyNewsReader */ = {
+			isa = PBXGroup;
+			children = (
+				65047BF826275F230066CAFE /* AppDelegate.swift */,
+				65047BFA26275F230066CAFE /* SceneDelegate.swift */,
+				65047BFC26275F230066CAFE /* ViewController.swift */,
+				65047BFE26275F230066CAFE /* Main.storyboard */,
+				65047C0126275F280066CAFE /* Assets.xcassets */,
+				65047C0326275F280066CAFE /* LaunchScreen.storyboard */,
+				65047C0626275F280066CAFE /* Info.plist */,
+			);
+			path = MyNewsReader;
+			sourceTree = "<group>";
+		};
+		65047C0E26275F290066CAFE /* MyNewsReaderTests */ = {
+			isa = PBXGroup;
+			children = (
+				65047C0F26275F290066CAFE /* MyNewsReaderTests.swift */,
+				65047C1126275F290066CAFE /* Info.plist */,
+			);
+			path = MyNewsReaderTests;
+			sourceTree = "<group>";
+		};
+		65047C1926275F290066CAFE /* MyNewsReaderUITests */ = {
+			isa = PBXGroup;
+			children = (
+				65047C1A26275F290066CAFE /* MyNewsReaderUITests.swift */,
+				65047C1C26275F290066CAFE /* Info.plist */,
+			);
+			path = MyNewsReaderUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		65047BF426275F230066CAFE /* MyNewsReader */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 65047C1F26275F290066CAFE /* Build configuration list for PBXNativeTarget "MyNewsReader" */;
+			buildPhases = (
+				65047BF126275F230066CAFE /* Sources */,
+				65047BF226275F230066CAFE /* Frameworks */,
+				65047BF326275F230066CAFE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MyNewsReader;
+			productName = MyNewsReader;
+			productReference = 65047BF526275F230066CAFE /* MyNewsReader.app */;
+			productType = "com.apple.product-type.application";
+		};
+		65047C0A26275F290066CAFE /* MyNewsReaderTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 65047C2226275F290066CAFE /* Build configuration list for PBXNativeTarget "MyNewsReaderTests" */;
+			buildPhases = (
+				65047C0726275F290066CAFE /* Sources */,
+				65047C0826275F290066CAFE /* Frameworks */,
+				65047C0926275F290066CAFE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				65047C0D26275F290066CAFE /* PBXTargetDependency */,
+			);
+			name = MyNewsReaderTests;
+			productName = MyNewsReaderTests;
+			productReference = 65047C0B26275F290066CAFE /* MyNewsReaderTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		65047C1526275F290066CAFE /* MyNewsReaderUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 65047C2526275F290066CAFE /* Build configuration list for PBXNativeTarget "MyNewsReaderUITests" */;
+			buildPhases = (
+				65047C1226275F290066CAFE /* Sources */,
+				65047C1326275F290066CAFE /* Frameworks */,
+				65047C1426275F290066CAFE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				65047C1826275F290066CAFE /* PBXTargetDependency */,
+			);
+			name = MyNewsReaderUITests;
+			productName = MyNewsReaderUITests;
+			productReference = 65047C1626275F290066CAFE /* MyNewsReaderUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		65047BED26275F220066CAFE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
+				TargetAttributes = {
+					65047BF426275F230066CAFE = {
+						CreatedOnToolsVersion = 12.4;
+					};
+					65047C0A26275F290066CAFE = {
+						CreatedOnToolsVersion = 12.4;
+						TestTargetID = 65047BF426275F230066CAFE;
+					};
+					65047C1526275F290066CAFE = {
+						CreatedOnToolsVersion = 12.4;
+						TestTargetID = 65047BF426275F230066CAFE;
+					};
+				};
+			};
+			buildConfigurationList = 65047BF026275F230066CAFE /* Build configuration list for PBXProject "MyNewsReader" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 65047BEC26275F220066CAFE;
+			productRefGroup = 65047BF626275F230066CAFE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				65047BF426275F230066CAFE /* MyNewsReader */,
+				65047C0A26275F290066CAFE /* MyNewsReaderTests */,
+				65047C1526275F290066CAFE /* MyNewsReaderUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		65047BF326275F230066CAFE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65047C0526275F280066CAFE /* LaunchScreen.storyboard in Resources */,
+				65047C0226275F280066CAFE /* Assets.xcassets in Resources */,
+				65047C0026275F230066CAFE /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		65047C0926275F290066CAFE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		65047C1426275F290066CAFE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		65047BF126275F230066CAFE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65047BFD26275F230066CAFE /* ViewController.swift in Sources */,
+				65047BF926275F230066CAFE /* AppDelegate.swift in Sources */,
+				65047BFB26275F230066CAFE /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		65047C0726275F290066CAFE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65047C1026275F290066CAFE /* MyNewsReaderTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		65047C1226275F290066CAFE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65047C1B26275F290066CAFE /* MyNewsReaderUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		65047C0D26275F290066CAFE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 65047BF426275F230066CAFE /* MyNewsReader */;
+			targetProxy = 65047C0C26275F290066CAFE /* PBXContainerItemProxy */;
+		};
+		65047C1826275F290066CAFE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 65047BF426275F230066CAFE /* MyNewsReader */;
+			targetProxy = 65047C1726275F290066CAFE /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		65047BFE26275F230066CAFE /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				65047BFF26275F230066CAFE /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		65047C0326275F280066CAFE /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				65047C0426275F280066CAFE /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		65047C1D26275F290066CAFE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		65047C1E26275F290066CAFE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		65047C2026275F290066CAFE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S48Q756DQX;
+				INFOPLIST_FILE = MyNewsReader/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kreativapps.MyNewsReader;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		65047C2126275F290066CAFE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S48Q756DQX;
+				INFOPLIST_FILE = MyNewsReader/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kreativapps.MyNewsReader;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		65047C2326275F290066CAFE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S48Q756DQX;
+				INFOPLIST_FILE = MyNewsReaderTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kreativapps.MyNewsReaderTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyNewsReader.app/MyNewsReader";
+			};
+			name = Debug;
+		};
+		65047C2426275F290066CAFE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S48Q756DQX;
+				INFOPLIST_FILE = MyNewsReaderTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kreativapps.MyNewsReaderTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyNewsReader.app/MyNewsReader";
+			};
+			name = Release;
+		};
+		65047C2626275F290066CAFE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S48Q756DQX;
+				INFOPLIST_FILE = MyNewsReaderUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kreativapps.MyNewsReaderUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MyNewsReader;
+			};
+			name = Debug;
+		};
+		65047C2726275F290066CAFE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S48Q756DQX;
+				INFOPLIST_FILE = MyNewsReaderUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kreativapps.MyNewsReaderUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MyNewsReader;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		65047BF026275F230066CAFE /* Build configuration list for PBXProject "MyNewsReader" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65047C1D26275F290066CAFE /* Debug */,
+				65047C1E26275F290066CAFE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		65047C1F26275F290066CAFE /* Build configuration list for PBXNativeTarget "MyNewsReader" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65047C2026275F290066CAFE /* Debug */,
+				65047C2126275F290066CAFE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		65047C2226275F290066CAFE /* Build configuration list for PBXNativeTarget "MyNewsReaderTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65047C2326275F290066CAFE /* Debug */,
+				65047C2426275F290066CAFE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		65047C2526275F290066CAFE /* Build configuration list for PBXNativeTarget "MyNewsReaderUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65047C2626275F290066CAFE /* Debug */,
+				65047C2726275F290066CAFE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 65047BED26275F220066CAFE /* Project object */;
+}
