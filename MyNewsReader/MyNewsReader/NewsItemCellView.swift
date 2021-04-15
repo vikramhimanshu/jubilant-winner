@@ -31,7 +31,9 @@ class NewsItemCellView: UITableViewCell {
     }
 
     override func prepareForReuse() {
-        
+        self.itemImageView.image = nil
+        self.titleLabel.text = nil
+        self.dateLabel.text = nil
     }
 }
 

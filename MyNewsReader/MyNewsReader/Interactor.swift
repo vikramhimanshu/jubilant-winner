@@ -14,8 +14,14 @@ protocol FeedInteractor {
 
 class Interactor {
     
+    var network: URLSession
+    
+    init() {
+        network = URLSession.shared
+    }
+    
     func getArticles(handler completionHandler: @escaping (Result<[NewsItem], Error>) -> Void) {
-        URLSession.shared.request(.abcNewsFeed()) { result in
+        network.request(.abcNewsFeed()) { result in
             switch result {
             case .failure(let error):
                 completionHandler(.failure(error))

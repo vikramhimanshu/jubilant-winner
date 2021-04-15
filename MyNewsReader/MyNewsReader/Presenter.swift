@@ -32,11 +32,18 @@ class Presenter {
         interactor?.getArticles(handler: { result in
             switch result {
             case .failure(let err):
-                print(err)
+                self.handleError(err)
             case .success(let articlesArray):
                 self.articles = articlesArray
             }
         })
+    }
+    
+    private func handleError(_ err:Error) {
+        let errorModel = ErrorViewModel(title: "Error Fetching Articles", description: err.localizedDescription, actionTitle: "Ok") { alertAction in
+            print(err)
+        }
+        ErrorView.presentError(on: controller, withData: errorModel)
     }
     
     func identifierForNewsItemCell(for indexPath: IndexPath) -> String {

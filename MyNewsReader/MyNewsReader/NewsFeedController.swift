@@ -38,3 +38,27 @@ class NewsFeedController: UITableViewController {
     }
 
 }
+
+struct ErrorViewModel {
+    let title: String
+    let description: String
+    let actionTitle: String
+    var actionHandler: ((UIAlertAction) -> Void)?
+}
+
+class ErrorView {
+        
+    static func presentError(on controller: UIViewController?, withData data: ErrorViewModel) {
+        
+        let error = UIAlertController(title: data.title, message: data.description, preferredStyle: .alert)
+        error.addAction(UIAlertAction(title: data.actionTitle,
+                                      style: .default,
+                                      handler: data.actionHandler))
+        DispatchQueue.main.async {
+            controller?.present(error, animated: true) {
+                
+            }
+        }
+    }
+    
+}
