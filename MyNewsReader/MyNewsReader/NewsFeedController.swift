@@ -12,11 +12,9 @@ class NewsFeedController: UITableViewController {
     var presenter: Presenter!
     
     override func viewDidLoad() {
+        super.viewDidLoad()
         presenter = Presenter()
         presenter?.controller = self
-
-        super.viewDidLoad()
-        
         presenter?.viewDidLoad()
     }
 

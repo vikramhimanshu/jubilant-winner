@@ -1,0 +1,211 @@
+{
+   "status":"ok",
+   "feed":{
+      "url":"http://www.abc.net.au/news/feed/51120/rss.xml",
+      "title":"Just In",
+      "link":"https://www.abc.net.au/news/justin/",
+      "author":"",
+      "description":"",
+      "image":"https://www.abc.net.au/news/image/8413416-1x1-144x144.png"
+   },
+   "items":[
+      {
+         "title":"Angus Campbell urges China to resolve dispute with Taiwan to avoid 'disastrous' conflict",
+         "pubDate":"2021-04-15 14:12:44",
+         "link":"https://www.abc.net.au/news/2021-04-16/angus-campbell-china-taiwan-defence-raisina-dialogue/100073210",
+         "guid":"https://www.abc.net.au/news/2021-04-16/angus-campbell-china-taiwan-defence-raisina-dialogue/100073210",
+         "author":"Stephen Dziedzic",
+         "thumbnail":"https://live-production.wcms.abc-cdn.net.au/e34f4a94c80c641357679436484466ac?impolicy=wcms_crop_resize&amp;cropH=1988&amp;cropW=1483&amp;xPos=762&amp;yPos=0&amp;width=862&amp;height=1149",
+         "description":"The Chief of Australia's Defence Force Angus Campbell has warned that conflict in the Taiwan Strait would be 'disastrous', urging China to resolve its differences with Taiwan.",
+         "content":"The Chief of Australia's Defence Force Angus Campbell has warned that conflict in the Taiwan Strait would be 'disastrous', urging China to resolve its differences with Taiwan.",
+         "enclosure":{
+            "link":"https://live-production.wcms.abc-cdn.net.au/e34f4a94c80c641357679436484466ac?impolicy=wcms_crop_resize&amp;cropH=1689&amp;cropW=3000&amp;xPos=0&amp;yPos=308&amp;width=862&amp;height=485",
+            "type":"image/jpeg",
+            "thumbnail":"https://live-production.wcms.abc-cdn.net.au/e34f4a94c80c641357679436484466ac?impolicy=wcms_crop_resize&amp;cropH=1988&amp;cropW=1483&amp;xPos=762&amp;yPos=0&amp;width=862&amp;height=1149"
+         },
+         "categories":[
+            "Unrest, Conflict and War",
+            "Foreign Affairs",
+            "World Politics",
+            "Scott Morrison"
+         ]
+      },
+      {
+         "title":"Colleagues accused of rape, friends detained: Q+A panellist levels string of accusations at Chinese government",
+         "pubDate":"2021-04-15 13:48:24",
+         "link":"https://www.abc.net.au/news/2021-04-15/vicky-xu-chinese-agents-detaining-friends-norman-swan-qanda/100073138",
+         "guid":"https://www.abc.net.au/news/2021-04-15/vicky-xu-chinese-agents-detaining-friends-norman-swan-qanda/100073138",
+         "author":"Paul Johnson",
+         "thumbnail":"https://live-production.wcms.abc-cdn.net.au/a25d628eaa5936cc9b4b3a60992fbe1e?impolicy=wcms_crop_resize&amp;cropH=933&amp;cropW=700&amp;xPos=262&amp;yPos=0&amp;width=862&amp;height=1149",
+         "description":"Journalist Vicky Xu details colleagues being accused of rape and her friends being interrogated by Chinese government agents over her reporting on human rights abuses in Xinjiang, while Dr Norman Swan says Australia should be procuring the Moderna COVID-19 vaccine, not just Pfizer.",
+         "content":"Journalist Vicky Xu details colleagues being accused of rape and her friends being interrogated by Chinese government agents over her reporting on human rights abuses in Xinjiang, while Dr Norman Swan says Australia should be procuring the Moderna COVID-19 vaccine, not just Pfizer.",
+         "enclosure":{
+            "link":"https://live-production.wcms.abc-cdn.net.au/a25d628eaa5936cc9b4b3a60992fbe1e?impolicy=wcms_crop_resize&amp;cropH=688&amp;cropW=1223&amp;xPos=0&amp;yPos=123&amp;width=862&amp;height=485",
+            "type":"image/jpeg",
+            "thumbnail":"https://live-production.wcms.abc-cdn.net.au/a25d628eaa5936cc9b4b3a60992fbe1e?impolicy=wcms_crop_resize&amp;cropH=933&amp;cropW=700&amp;xPos=262&amp;yPos=0&amp;width=862&amp;height=1149"
+         },
+         "categories":[
+            "COVID-19",
+            "World Politics",
+            "Human Rights",
+            "Foreign Affairs"
+         ]
+      },
+      {
+         "title":"'There will be bankruptcies': Mascot Towers owners urged to sell as developers circle",
+         "pubDate":"2021-04-15 13:09:34",
+         "link":"https://www.abc.net.au/news/2021-04-15/mascot-towers-owners-urged-to-sell-as-developers-circle/100073040",
+         "guid":"https://www.abc.net.au/news/2021-04-15/mascot-towers-owners-urged-to-sell-as-developers-circle/100073040",
+         "author":"Ursula Malone",
+         "thumbnail":"https://live-production.wcms.abc-cdn.net.au/12471d9b5fa6be750f2f61ffe4bb086d?impolicy=wcms_crop_resize&amp;cropH=1320&amp;cropW=989&amp;xPos=388&amp;yPos=5&amp;width=862&amp;height=1149",
+         "description":"Owners of the beleaguered building are told to expect to cop a loss of up to 80 per cent on their units\u00a0after several developers expressed interest\u00a0in buying the block with a view to demolishing it and rebuilding from scratch.",
+         "content":"Owners of the beleaguered building are told to expect to cop a loss of up to 80 per cent on their units\u00a0after several developers expressed interest\u00a0in buying the block with a view to demolishing it and rebuilding from scratch.",
+         "enclosure":{
+            "link":"https://live-production.wcms.abc-cdn.net.au/12471d9b5fa6be750f2f61ffe4bb086d?impolicy=wcms_crop_resize&amp;cropH=1040&amp;cropW=1857&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485",
+            "type":"image/jpeg",
+            "thumbnail":"https://live-production.wcms.abc-cdn.net.au/12471d9b5fa6be750f2f61ffe4bb086d?impolicy=wcms_crop_resize&amp;cropH=1320&amp;cropW=989&amp;xPos=388&amp;yPos=5&amp;width=862&amp;height=1149"
+         },
+         "categories":[
+            "Urban Development and Planning",
+            "Building and Construction"
+         ]
+      },
+      {
+         "title":"New COVID vaccination hubs to open in Adelaide's north and south if Pfizer supplies arrive",
+         "pubDate":"2021-04-15 11:51:06",
+         "link":"https://www.abc.net.au/news/2021-04-15/sa-new-vaccine-hubs-to-open/100073172",
+         "guid":"https://www.abc.net.au/news/2021-04-15/sa-new-vaccine-hubs-to-open/100073172",
+         "author":"",
+         "thumbnail":"https://live-production.wcms.abc-cdn.net.au/796515ab16a9d1553288d1fdd2d052ef?impolicy=wcms_crop_resize&amp;cropH=1988&amp;cropW=1483&amp;xPos=1062&amp;yPos=0&amp;width=862&amp;height=1149",
+         "description":"COVID-19 vaccination hubs will be opened at\u00a0Elizabeth and Noarlunga. The state government says the hubs should be open by June, depending on the supply of Pfizer vaccine.",
+         "content":"COVID-19 vaccination hubs will be opened at\u00a0Elizabeth and Noarlunga. The state government says the hubs should be open by June, depending on the supply of Pfizer vaccine.",
+         "enclosure":{
+            "link":"https://live-production.wcms.abc-cdn.net.au/796515ab16a9d1553288d1fdd2d052ef?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=154&amp;width=862&amp;height=485",
+            "type":"image/jpeg",
+            "thumbnail":"https://live-production.wcms.abc-cdn.net.au/796515ab16a9d1553288d1fdd2d052ef?impolicy=wcms_crop_resize&amp;cropH=1988&amp;cropW=1483&amp;xPos=1062&amp;yPos=0&amp;width=862&amp;height=1149"
+         },
+         "categories":[
+            "COVID-19",
+            "Government and Politics",
+            "Vaccines and Immunity"
+         ]
+      },
+      {
+         "title":"Vaccinated Australians could quarantine at home after travelling overseas, PM suggests",
+         "pubDate":"2021-04-15 11:31:13",
+         "link":"https://www.abc.net.au/news/2021-04-15/covid-vaccinated-australians-could-be-allowed-overseas-travel/100073168",
+         "guid":"https://www.abc.net.au/news/2021-04-15/covid-vaccinated-australians-could-be-allowed-overseas-travel/100073168",
+         "author":"Jade Macmillan",
+         "thumbnail":"https://live-production.wcms.abc-cdn.net.au/8b8de099daccb47f074b9fde49c245b1?impolicy=wcms_crop_resize&amp;cropH=1980&amp;cropW=1480&amp;xPos=151&amp;yPos=0&amp;width=862&amp;height=1149",
+         "description":"Scott Morrison flags\u00a0allowing Australians to travel overseas and return home, without going into hotel quarantine, if they are vaccinated against COVID-19.",
+         "content":"Scott Morrison flags\u00a0allowing Australians to travel overseas and return home, without going into hotel quarantine, if they are vaccinated against COVID-19.",
+         "enclosure":{
+            "link":"https://live-production.wcms.abc-cdn.net.au/8b8de099daccb47f074b9fde49c245b1?impolicy=wcms_crop_resize&amp;cropH=1495&amp;cropW=2656&amp;xPos=0&amp;yPos=318&amp;width=862&amp;height=485",
+            "type":"image/jpeg",
+            "thumbnail":"https://live-production.wcms.abc-cdn.net.au/8b8de099daccb47f074b9fde49c245b1?impolicy=wcms_crop_resize&amp;cropH=1980&amp;cropW=1480&amp;xPos=151&amp;yPos=0&amp;width=862&amp;height=1149"
+         },
+         "categories":[
+            "Travel and Tourism",
+            "COVID-19",
+            "Vaccines and Immunity",
+            "Government and Politics"
+         ]
+      },
+      {
+         "title":"SA woman accused of aiding and abetting murder of Simon Middleton denied bail",
+         "pubDate":"2021-04-15 11:08:00",
+         "link":"https://www.abc.net.au/news/2021-04-15/sa-virginia-murder-accused-bail-application/100073122",
+         "guid":"https://www.abc.net.au/news/2021-04-15/sa-virginia-murder-accused-bail-application/100073122",
+         "author":"Mahalia Carter",
+         "thumbnail":"https://live-production.wcms.abc-cdn.net.au/4666f84b3135cb50bc364bf8a295086a?impolicy=wcms_crop_resize&amp;cropH=837&amp;cropW=628&amp;xPos=387&amp;yPos=0&amp;width=862&amp;height=1149",
+         "description":"Amanda Jane Draganoff is denied bail after the Elizabeth Magistrates Court hears a witness could be at risk if she is released from custody.",
+         "content":"Amanda Jane Draganoff is denied bail after the Elizabeth Magistrates Court hears a witness could be at risk if she is released from custody.",
+         "enclosure":{
+            "link":"https://live-production.wcms.abc-cdn.net.au/4666f84b3135cb50bc364bf8a295086a?impolicy=wcms_crop_resize&amp;cropH=706&amp;cropW=1256&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485",
+            "type":"image/jpeg",
+            "thumbnail":"https://live-production.wcms.abc-cdn.net.au/4666f84b3135cb50bc364bf8a295086a?impolicy=wcms_crop_resize&amp;cropH=837&amp;cropW=628&amp;xPos=387&amp;yPos=0&amp;width=862&amp;height=1149"
+         },
+         "categories":[
+            "Courts and Trials",
+            "Homicide"
+         ]
+      },
+      {
+         "title":"Protestors in Perth call for change three decades after report into Aboriginal deaths in custody",
+         "pubDate":"2021-04-15 10:06:35",
+         "link":"https://www.abc.net.au/news/2021-04-15/indigenous-deaths-in-custody-anniversary/100072986",
+         "guid":"https://www.abc.net.au/news/2021-04-15/indigenous-deaths-in-custody-anniversary/100072986",
+         "author":"Rebecca Turner",
+         "thumbnail":"https://live-production.wcms.abc-cdn.net.au/92d6aef2d11e51eff3063e3a69ad3a39?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
+         "description":"Protestors\u00a0in Perth\u00a0mark\u00a0three decades since the 1991 Royal Commission into Aboriginal Deaths in Custody report was tabled, calling for change in a state where Indigenous incarceration is the highest in the country.",
+         "content":"Protestors\u00a0in Perth\u00a0mark\u00a0three decades since the 1991 Royal Commission into Aboriginal Deaths in Custody report was tabled, calling for change in a state where Indigenous incarceration is the highest in the country.",
+         "enclosure":{
+            "link":"https://live-production.wcms.abc-cdn.net.au/92d6aef2d11e51eff3063e3a69ad3a39?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485",
+            "type":"image/jpeg",
+            "thumbnail":"https://live-production.wcms.abc-cdn.net.au/92d6aef2d11e51eff3063e3a69ad3a39?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149"
+         },
+         "categories":[
+            "Aboriginal",
+            "Black Deaths In Custody"
+         ]
+      },
+      {
+         "title":"SA records first case of tick-borne disease that killed hundreds of dogs in the Top End",
+         "pubDate":"2021-04-15 09:48:22",
+         "link":"https://www.abc.net.au/news/2021-04-15/sa-warning-about-tick-disease-in-dogs/100072698",
+         "guid":"https://www.abc.net.au/news/2021-04-15/sa-warning-about-tick-disease-in-dogs/100072698",
+         "author":"",
+         "thumbnail":"https://live-production.wcms.abc-cdn.net.au/eb1b98dd8356abe30f60bf3a3e97a721?impolicy=wcms_crop_resize&amp;cropH=984&amp;cropW=735&amp;xPos=339&amp;yPos=0&amp;width=862&amp;height=1149",
+         "description":"South Australia's Chief Veterinary Officer urges\u00a0pet owners to protect their dogs against ticks after a case of the potentially deadly canine ehrlichiosis disease is recorded in the state's far north.\u00a0",
+         "content":"South Australia's Chief Veterinary Officer urges\u00a0pet owners to protect their dogs against ticks after a case of the potentially deadly canine ehrlichiosis disease is recorded in the state's far north.\u00a0",
+         "enclosure":{
+            "link":"https://live-production.wcms.abc-cdn.net.au/eb1b98dd8356abe30f60bf3a3e97a721?impolicy=wcms_crop_resize&amp;cropH=743&amp;cropW=1320&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485",
+            "type":"image/jpeg",
+            "thumbnail":"https://live-production.wcms.abc-cdn.net.au/eb1b98dd8356abe30f60bf3a3e97a721?impolicy=wcms_crop_resize&amp;cropH=984&amp;cropW=735&amp;xPos=339&amp;yPos=0&amp;width=862&amp;height=1149"
+         },
+         "categories":[
+            "Infectious Diseases (Other)",
+            "Veterinary Medicine",
+            "Invertebrates - Insects and Arachnids",
+            "Human Interest"
+         ]
+      },
+      {
+         "title":"Hockeyroos stars win appeal against exclusion from Olympics team",
+         "pubDate":"2021-04-15 09:39:46",
+         "link":"https://www.abc.net.au/news/2021-04-15/hockeyroos-georgie-morgan-rachael-lynch-win-appeal/100073014",
+         "guid":"https://www.abc.net.au/news/2021-04-15/hockeyroos-georgie-morgan-rachael-lynch-win-appeal/100073014",
+         "author":"Tracey Holmes",
+         "thumbnail":"https://live-production.wcms.abc-cdn.net.au/aeab84bc1032fe1a4acfeccf88165f2e?impolicy=wcms_crop_resize&amp;cropH=2151&amp;cropW=1611&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=1149",
+         "description":"A spot in the Hockeyroos side for Toyko remains up in the air for senior players\u00a0Georgie Morgan and Rachael Lynch, despite winning\u00a0the appeal over their controversial axing from the squad in late 2020.",
+         "content":"A spot in the Hockeyroos side for Toyko remains up in the air for senior players\u00a0Georgie Morgan and Rachael Lynch, despite winning\u00a0the appeal over their controversial axing from the squad in late 2020.",
+         "enclosure":{
+            "link":"https://live-production.wcms.abc-cdn.net.au/aeab84bc1032fe1a4acfeccf88165f2e?impolicy=wcms_crop_resize&amp;cropH=1680&amp;cropW=2982&amp;xPos=0&amp;yPos=471&amp;width=862&amp;height=485",
+            "type":"image/jpeg",
+            "thumbnail":"https://live-production.wcms.abc-cdn.net.au/aeab84bc1032fe1a4acfeccf88165f2e?impolicy=wcms_crop_resize&amp;cropH=2151&amp;cropW=1611&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=1149"
+         },
+         "categories":[
+            "Field Hockey"
+         ]
+      },
+      {
+         "title":"India facing 'horrible situation' as COVID cases hit a new record",
+         "pubDate":"2021-04-15 08:57:38",
+         "link":"https://www.abc.net.au/news/2021-04-15/india-breaches-200-000-daily-covid-19-cases/100072816",
+         "guid":"https://www.abc.net.au/news/2021-04-15/india-breaches-200-000-daily-covid-19-cases/100072816",
+         "author":"",
+         "thumbnail":"https://live-production.wcms.abc-cdn.net.au/944170cd5eaaa814c693efc0b176069f?impolicy=wcms_crop_resize&amp;cropH=658&amp;cropW=492&amp;xPos=175&amp;yPos=0&amp;width=862&amp;height=1149",
+         "description":"India reports\u00a0a record 200,000 new daily COVID-19 cases, with Mumbai going into lockdown and\u00a0hospitals\u00a0reporting severe shortages of beds and oxygen supplies.",
+         "content":"India reports\u00a0a record 200,000 new daily COVID-19 cases, with Mumbai going into lockdown and\u00a0hospitals\u00a0reporting severe shortages of beds and oxygen supplies.",
+         "enclosure":{
+            "link":"https://live-production.wcms.abc-cdn.net.au/944170cd5eaaa814c693efc0b176069f?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=35&amp;width=862&amp;height=485",
+            "type":"image/jpeg",
+            "thumbnail":"https://live-production.wcms.abc-cdn.net.au/944170cd5eaaa814c693efc0b176069f?impolicy=wcms_crop_resize&amp;cropH=658&amp;cropW=492&amp;xPos=175&amp;yPos=0&amp;width=862&amp;height=1149"
+         },
+         "categories":[
+            "COVID-19",
+            "Lockdown"
+         ]
+      }
+   ]
+}

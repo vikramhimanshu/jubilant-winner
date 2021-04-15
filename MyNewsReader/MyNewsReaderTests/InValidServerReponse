@@ -1,0 +1,11 @@
+
+{
+   "status":"ok",
+   "feed":{
+      "url":"http://www.abc.net.au/news/feed/51120/rss.xml",
+      "title":"Just In",
+      "link":"https://www.abc.net.au/news/justin/",
+      "author":"",
+      "description":"",
+      "image":"https://www.abc.net.au/news/image/8413416-1x1-144x144.png"
+   }
